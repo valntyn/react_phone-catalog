@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.76fcca6a.chunk.css",
+    "main.js": "./static/js/main.6d6423e0.chunk.js",
+    "main.js.map": "./static/js/main.6d6423e0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.945516b0.chunk.js": "./static/js/2.945516b0.chunk.js",
+    "static/js/2.945516b0.chunk.js.map": "./static/js/2.945516b0.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.76fcca6a.chunk.css.map": "./static/css/main.76fcca6a.chunk.css.map",
+    "static/js/2.945516b0.chunk.js.LICENSE.txt": "./static/js/2.945516b0.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/mont-regular-webfont.b8a55ba6.woff",
+    "static/media/tie.dec0d118.svg": "./static/media/tie.dec0d118.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.945516b0.chunk.js",
+    "static/css/main.76fcca6a.chunk.css",
+    "static/js/main.6d6423e0.chunk.js"
+  ]
+}
