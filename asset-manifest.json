@@ -1,31 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.b01895bf.chunk.css",
-    "main.js": "./static/js/main.144d7d20.chunk.js",
-    "main.js.map": "./static/js/main.144d7d20.chunk.js.map",
+    "main.css": "./static/css/main.afd7172b.chunk.css",
+    "main.js": "./static/js/main.2bbf916b.chunk.js",
+    "main.js.map": "./static/js/main.2bbf916b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.1a318da3.chunk.js": "./static/js/2.1a318da3.chunk.js",
-    "static/js/2.1a318da3.chunk.js.map": "./static/js/2.1a318da3.chunk.js.map",
+    "static/js/2.f039413d.chunk.js": "./static/js/2.f039413d.chunk.js",
+    "static/js/2.f039413d.chunk.js.map": "./static/js/2.f039413d.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.b01895bf.chunk.css.map": "./static/css/main.b01895bf.chunk.css.map",
-    "static/js/2.1a318da3.chunk.js.LICENSE.txt": "./static/js/2.1a318da3.chunk.js.LICENSE.txt",
-    "static/media/OptionsOnProductPage.scss": "./static/media/heart.18a4d0a4.svg",
-    "static/media/Navbar.scss": "./static/media/Search.eb670dd9.svg",
-    "static/media/SortLink.scss": "./static/media/cross.a7b1ced7.svg",
-    "static/media/Pagination.scss": "./static/media/arr-right.7365d53e.svg",
-    "static/media/Footer.scss": "./static/media/arr-up_black.3ffcd791.svg",
-    "static/media/Cart.scss": "./static/media/cart-img.f0432bbd.svg",
-    "static/media/EmptyNotification.scss": "./static/media/empty.9f884df3.svg",
-    "static/media/PageNotFound.scss": "./static/media/error.e12b5e1c.svg",
-    "static/media/Favourites.scss": "./static/media/favorite.04de1739.svg",
-    "static/media/App.scss": "./static/media/mont-regular-webfont.b8a55ba6.woff",
-    "static/media/tie.dec0d118.svg": "./static/media/tie.dec0d118.svg"
+    "static/css/main.afd7172b.chunk.css.map": "./static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.f039413d.chunk.js.LICENSE.txt": "./static/js/2.f039413d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.1a318da3.chunk.js",
-    "static/css/main.b01895bf.chunk.css",
-    "static/js/main.144d7d20.chunk.js"
+    "static/js/2.f039413d.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.2bbf916b.chunk.js"
   ]
 }
